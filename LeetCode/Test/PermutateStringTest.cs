@@ -14,13 +14,13 @@ namespace CodingPractice.Test {
 
         [TestMethod]
         public void CannotPermutateAlphaString() {
-            Assert.AreEqual("", new PermutateString().Permutate("leetcode"));
+            Assert.AreEqual(String.Empty, new PermutateString().Permutate("leetcode"));
         }
 
         [TestMethod]
         public void CannotPermuateNumericString() {
             PermutateString permutateString = new PermutateString();
-            Assert.AreEqual("", new PermutateString().Permutate("1229857369"));
+            Assert.AreEqual(String.Empty, new PermutateString().Permutate("1229857369"));
         }
     }
 }
