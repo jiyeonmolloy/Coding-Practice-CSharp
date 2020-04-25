@@ -1,11 +1,10 @@
 using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("CodingPractice")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Coding Practice using CSharp")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("JiDevOps")]
 [assembly: AssemblyProduct("CodingPractice")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
