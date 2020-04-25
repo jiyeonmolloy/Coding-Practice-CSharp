@@ -1,6 +1,6 @@
 ﻿
 namespace LeetCode.Src {
-    static class HappyNumber {
+    class HappyNumber {
 
         internal static bool IsHappy (int n) {
             int fast = n;
@@ -16,7 +16,7 @@ namespace LeetCode.Src {
         }
 
         internal static int ComputeSum (int n) {
-            int reminder = 0;
+            int reminder;
             int sum = 0;
 
             while (n > 0) {
