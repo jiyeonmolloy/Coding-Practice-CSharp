@@ -3,8 +3,6 @@ using System.Linq;
 
 namespace CodingPractice.Src {
     class PermutateString {
-        internal PermutateString () { }
-
         internal string Permutate (string s) {
             if (s.Length == 1) {
                 // If string only contains one character, output string input

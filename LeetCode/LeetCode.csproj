@@ -51,9 +51,11 @@
   <ItemGroup>
     <Compile Include="Src\HappyNumber.cs" />
     <Compile Include="Src\PermutateString.cs" />
+    <Compile Include="Src\ProductOfArray.cs" />
     <Compile Include="Test\HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\PermutateStringTest.cs" />
+    <Compile Include="Test\ProductOfArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
