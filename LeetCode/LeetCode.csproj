@@ -50,10 +50,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Src\P1422MaximumScoreAfterSplittingAString.cs" />
+    <Compile Include="Src\P1423MaximumPointsYouCanObtainFromCards.cs" />
     <Compile Include="Src\P202HappyNumber.cs" />
     <Compile Include="Src\P1417ReformatTheString.cs" />
     <Compile Include="Src\P238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
+    <Compile Include="Test\P1423MaximumPointsYouCanObtainFromCardsTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\P1417ReformatTheStringTest.cs" />
