@@ -2,8 +2,12 @@
 using System.Linq;
 
 
-namespace CodingPractice.Src {
-    class ProductOfArray {
+namespace LeetCode.Src {
+    /// <summary>
+    /// P238 Product of Array Except Self. href = https://leetcode.com/problems/product-of-array-except-self/
+    /// Key: Prefix Sum
+    /// </summary>
+    class P238ProductOfArrayExceptSelf {
         public int[] ProductExceptSelf (int[] nums) {
             int size = nums.Length;
             int[] prefixProducts = CalculatePrefixProduct(nums);
