@@ -8,7 +8,7 @@
     <ProjectGuid>{CD8961F5-0D74-45CD-9516-44919892D7F3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodingPractice</RootNamespace>
+    <RootNamespace>LeetCode</RootNamespace>
     <AssemblyName>CodingPractice</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -49,13 +49,16 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Src\HappyNumber.cs" />
-    <Compile Include="Src\PermutateString.cs" />
-    <Compile Include="Src\ProductOfArray.cs" />
-    <Compile Include="Test\HappyNumberTest.cs" />
+    <Compile Include="Src\P1422MaximumScoreAfterSplittingAString.cs" />
+    <Compile Include="Src\P202HappyNumber.cs" />
+    <Compile Include="Src\P1417ReformatTheString.cs" />
+    <Compile Include="Src\P238ProductOfArrayExceptSelf.cs" />
+    <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
+    <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test\PermutateStringTest.cs" />
-    <Compile Include="Test\ProductOfArrayTest.cs" />
+    <Compile Include="Test\P1417ReformatTheStringTest.cs" />
+    <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
+    <Compile Include="Test\WeeklyChallenge.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
