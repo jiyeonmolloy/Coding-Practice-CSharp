@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Linq;
 
-namespace CodingPractice.Src {
-    class PermutateString {
+namespace LeetCode.Src {
+    /// <summary>
+    /// P1417 Reformat The String. href = https://leetcode.com/problems/reformat-the-string/
+    /// </summary>
+    class P1417ReformatTheString {
         internal string Permutate (string s) {
             if (s.Length == 1) {
                 // If string only contains one character, output string input
