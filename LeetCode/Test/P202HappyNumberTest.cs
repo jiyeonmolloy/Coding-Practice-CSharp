@@ -3,15 +3,15 @@ using LeetCode.Src;
 
 namespace LeetCode {
     [TestClass]
-    public class HappyNumberTest {
+    public class P202HappyNumberTest {
         [TestMethod]
         public void IsHappyNumber () {
-            Assert.IsTrue(HappyNumber.IsHappy(19));
+            Assert.IsTrue(P202HappyNumber.IsHappy(19));
         }
 
         [TestMethod]
         public void IsNotHappyNumber () {
-            Assert.IsFalse(HappyNumber.IsHappy(182));
+            Assert.IsFalse(P202HappyNumber.IsHappy(182));
         }
     }
 }

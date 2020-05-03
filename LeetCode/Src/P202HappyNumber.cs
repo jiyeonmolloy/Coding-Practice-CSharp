@@ -1,6 +1,10 @@
 ﻿
 namespace LeetCode.Src {
-    class HappyNumber {
+    /// <summary>
+    /// P202 Happy Number. href = https://leetcode.com/problems/happy-number/
+    /// Key: Cycle Detection
+    /// </summary>
+    class P202HappyNumber {
 
         internal static bool IsHappy (int n) {
             int fast = n;
