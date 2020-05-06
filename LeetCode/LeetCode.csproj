@@ -57,6 +57,7 @@
     <Compile Include="Src\P238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Src\P278FirstBadVersion.cs" />
     <Compile Include="Src\P383RansomNote.cs" />
+    <Compile Include="Src\P387FirstUniqueCharacterInString.cs" />
     <Compile Include="Src\P476NumberComplement.cs" />
     <Compile Include="Src\P771JewelsAndStones.cs" />
     <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
+    <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\WeeklyChallenge.cs" />
