@@ -151,6 +151,7 @@
     <Compile Include="Src\P1417ReformatTheString.cs" />
     <Compile Include="Src\P238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Src\P278FirstBadVersion.cs" />
+    <Compile Include="Src\P367ValidPerfectSquare.cs" />
     <Compile Include="Src\P383RansomNote.cs" />
     <Compile Include="Src\P387FirstUniqueCharacterInString.cs" />
     <Compile Include="Src\P476NumberComplement.cs" />
@@ -165,6 +166,7 @@
     <Compile Include="Test\P1417ReformatTheStringTest.cs" />
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
+    <Compile Include="Test\P367ValidPerfectSquareTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
     <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
