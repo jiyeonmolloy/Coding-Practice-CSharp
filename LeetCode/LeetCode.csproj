@@ -142,6 +142,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
     <Compile Include="Src\Common\TreeNode.cs" />
     <Compile Include="Src\P1422MaximumScoreAfterSplittingAString.cs" />
     <Compile Include="Src\P1423MaximumPointsYouCanObtainFromCards.cs" />
@@ -160,6 +161,7 @@
     <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
     <Compile Include="Test\P1423MaximumPointsYouCanObtainFromCardsTest.cs" />
     <Compile Include="Test\P1437CheckIfAll1sAreAtLeastKPlacesAwayTest.cs" />
+    <Compile Include="Test\P1441BuildAnArrayWithStackOperationsTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
