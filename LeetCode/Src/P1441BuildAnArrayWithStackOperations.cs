@@ -3,6 +3,12 @@ using System.Linq;
 
 namespace LeetCode.Src {
     class P1441BuildAnArrayWithStackOperations {
+        /// <summary>
+        /// P1441 Build An Array With Stack Operations. href = https://leetcode.com/problems/build-an-array-with-stack-operations/
+        /// </summary>
+        /// <param name="target"></param>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public static IList<string> BuildArray (int[] target, int n) {
             IList<string> actionList = new List<string>();
             List<int> targetList = target.ToList();
