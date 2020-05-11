@@ -142,6 +142,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
     <Compile Include="Src\Common\TreeNode.cs" />
     <Compile Include="Src\P1422MaximumScoreAfterSplittingAString.cs" />
@@ -176,6 +177,7 @@
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
+    <Compile Include="Test\P997FindTheTownJudgeTest.cs" />
     <Compile Include="Test\WeeklyChallenge.cs" />
   </ItemGroup>
   <ItemGroup>
