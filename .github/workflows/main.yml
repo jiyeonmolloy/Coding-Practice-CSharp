@@ -23,5 +23,5 @@ jobs:
       - name: Restore NuGet Packages
         run: nuget restore Coding-Practice-CSharp.sln
  
-      - name: Build and Publish Web App
+      - name: Build and Publish
         run: msbuild Coding-Practice-CSharp.sln /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile 
