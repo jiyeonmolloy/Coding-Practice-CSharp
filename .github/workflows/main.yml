@@ -1,0 +1,27 @@
+# GitHub Actions Main Configuration File
+name: Main
+
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        
+      - name: Setup MSBuild Path
+        uses: warrenbuckley/Setup-MSBuild@v1
+       
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1.0.2
+     
+      - name: Restore NuGet Packages
+        run: nuget restore Coding-Practice-CSharp.sln
+ 
+      - name: Build and Publish Web App
+        run: msbuild Coding-Practice-CSharp.sln /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile 
