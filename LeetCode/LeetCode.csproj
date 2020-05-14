@@ -142,6 +142,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
@@ -175,6 +176,7 @@
     <Compile Include="Test\P367ValidPerfectSquareTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
     <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
+    <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P540SingleElementInASortedArrayTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
