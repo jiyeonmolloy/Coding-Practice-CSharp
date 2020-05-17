@@ -161,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Src\Common\ListNode.cs" />
+    <Compile Include="Src\P1450NumberOfStudentsDoingHomeworkAtAGivenTime.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
@@ -187,6 +188,7 @@
     <Compile Include="Test\P1437CheckIfAll1sAreAtLeastKPlacesAwayTest.cs" />
     <Compile Include="Test\P1441BuildAnArrayWithStackOperationsTest.cs" />
     <Compile Include="Test\P1442CountTripletsThatCanFormTwoArraysOfEqualXORTest.cs" />
+    <Compile Include="Test\P1450NumberOfStudentsDoingHomeworkAtAGivenTimeTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
