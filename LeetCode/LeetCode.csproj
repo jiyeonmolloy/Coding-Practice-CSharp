@@ -161,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Src\Common\ListNode.cs" />
+    <Compile Include="Src\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList.cs" />
     <Compile Include="Src\P1450NumberOfStudentsDoingHomeworkAtAGivenTime.cs" />
     <Compile Include="Src\P1451RearrangeWordsInASentence.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
@@ -191,6 +192,7 @@
     <Compile Include="Test\P1442CountTripletsThatCanFormTwoArraysOfEqualXORTest.cs" />
     <Compile Include="Test\P1450NumberOfStudentsDoingHomeworkAtAGivenTimeTest.cs" />
     <Compile Include="Test\P1451RearrangeWordsInASentenceTest.cs" />
+    <Compile Include="Test\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherListTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
