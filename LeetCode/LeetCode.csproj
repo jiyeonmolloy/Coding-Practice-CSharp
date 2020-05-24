@@ -164,6 +164,7 @@
     <Compile Include="Src\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList.cs" />
     <Compile Include="Src\P1450NumberOfStudentsDoingHomeworkAtAGivenTime.cs" />
     <Compile Include="Src\P1451RearrangeWordsInASentence.cs" />
+    <Compile Include="Src\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
@@ -195,6 +196,7 @@
     <Compile Include="Test\P1450NumberOfStudentsDoingHomeworkAtAGivenTimeTest.cs" />
     <Compile Include="Test\P1451RearrangeWordsInASentenceTest.cs" />
     <Compile Include="Test\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherListTest.cs" />
+    <Compile Include="Test\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentenceTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
