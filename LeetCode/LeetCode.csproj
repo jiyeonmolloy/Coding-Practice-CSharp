@@ -166,6 +166,7 @@
     <Compile Include="Src\P1451RearrangeWordsInASentence.cs" />
     <Compile Include="Src\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cs" />
     <Compile Include="Src\P1456MaximumNumberOfVowelsInASubstringOfGivenLength.cs" />
+    <Compile Include="Src\P1457PseudoPalindromicPathsInABinaryTree.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
@@ -199,6 +200,7 @@
     <Compile Include="Test\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherListTest.cs" />
     <Compile Include="Test\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentenceTest.cs" />
     <Compile Include="Test\P1456MaximumNumberOfVowelsInASubstringOfGivenLengthTest.cs" />
+    <Compile Include="Test\P1457PseudoPalindromicPathsInABinaryTreeTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
