@@ -173,6 +173,7 @@
     <Compile Include="Src\P1457PseudoPalindromicPathsInABinaryTree.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
+    <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
@@ -214,6 +215,7 @@
     <Compile Include="Test\P226InvertBinaryTreeTest.cs" />
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
+    <Compile Include="Test\P338CountingBitsTest.cs" />
     <Compile Include="Test\P367ValidPerfectSquareTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
     <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
