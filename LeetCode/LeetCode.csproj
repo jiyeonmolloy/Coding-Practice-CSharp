@@ -176,6 +176,7 @@
     <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
+    <Compile Include="Src\P525ContiguousArray.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
     <Compile Include="Src\P567PermutationInString.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
@@ -222,6 +223,7 @@
     <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P438FindAllAnagramsInAStringTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
+    <Compile Include="Test\P525ContiguousArrayTest.cs" />
     <Compile Include="Test\P540SingleElementInASortedArrayTest.cs" />
     <Compile Include="Test\P567PermutationInStringTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
