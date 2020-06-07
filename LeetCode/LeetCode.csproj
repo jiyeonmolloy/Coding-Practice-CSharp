@@ -172,6 +172,7 @@
     <Compile Include="Src\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cs" />
     <Compile Include="Src\P1456MaximumNumberOfVowelsInASubstringOfGivenLength.cs" />
     <Compile Include="Src\P1457PseudoPalindromicPathsInABinaryTree.cs" />
+    <Compile Include="Src\P1471TheKStrongestValuesInAnArray.cs" />
     <Compile Include="Src\P1472DesignBrowserHistory.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
@@ -213,6 +214,7 @@
     <Compile Include="Test\P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentenceTest.cs" />
     <Compile Include="Test\P1456MaximumNumberOfVowelsInASubstringOfGivenLengthTest.cs" />
     <Compile Include="Test\P1457PseudoPalindromicPathsInABinaryTreeTest.cs" />
+    <Compile Include="Test\P1471TheKStrongestValuesInAnArrayTest.cs" />
     <Compile Include="Test\P1472DesignBrowserHistoryTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P1TwoSumTest.cs" />
