@@ -178,6 +178,7 @@
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
+    <Compile Include="Src\P231PowerOfTwo.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P344ReverseString.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
@@ -226,6 +227,7 @@
     <Compile Include="Test\P1417ReformatTheStringTest.cs" />
     <Compile Include="Test\P206ReverseLinkedListTest.cs" />
     <Compile Include="Test\P226InvertBinaryTreeTest.cs" />
+    <Compile Include="Test\P231PowerOfTwoTest.cs" />
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
     <Compile Include="Test\P338CountingBitsTest.cs" />
