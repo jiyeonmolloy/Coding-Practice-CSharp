@@ -181,6 +181,7 @@
     <Compile Include="Src\P231PowerOfTwo.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P344ReverseString.cs" />
+    <Compile Include="Src\P392IsSubsequence.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P406QueueReconstructionByHeight.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
@@ -235,6 +236,7 @@
     <Compile Include="Test\P367ValidPerfectSquareTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
     <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
+    <Compile Include="Test\P392IsSubsequenceTest.cs" />
     <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P406QueueReconstructionByHeightTest.cs" />
     <Compile Include="Test\P438FindAllAnagramsInAStringTest.cs" />
