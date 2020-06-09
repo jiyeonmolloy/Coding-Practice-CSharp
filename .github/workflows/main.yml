@@ -1,5 +1,5 @@
 # GitHub Actions Main Configuration File
-name: Main
+name: Build
 
 on:
   pull_request:
