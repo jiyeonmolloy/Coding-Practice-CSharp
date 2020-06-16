@@ -187,6 +187,7 @@
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P406QueueReconstructionByHeight.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
+    <Compile Include="Src\P468ValidateIPAddress.cs" />
     <Compile Include="Src\P525ContiguousArray.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
     <Compile Include="Src\P5453RunningSumOf1dArray.cs" />
@@ -246,6 +247,7 @@
     <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P406QueueReconstructionByHeightTest.cs" />
     <Compile Include="Test\P438FindAllAnagramsInAStringTest.cs" />
+    <Compile Include="Test\P468ValidateIPAddressTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P525ContiguousArrayTest.cs" />
     <Compile Include="Test\P540SingleElementInASortedArrayTest.cs" />
