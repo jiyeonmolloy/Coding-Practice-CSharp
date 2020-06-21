@@ -176,6 +176,7 @@
     <Compile Include="Src\P1470ShuffleTheArray.cs" />
     <Compile Include="Src\P1471TheKStrongestValuesInAnArray.cs" />
     <Compile Include="Src\P1472DesignBrowserHistory.cs" />
+    <Compile Include="Src\P1486XOROperationInAnArray.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
@@ -228,6 +229,7 @@
     <Compile Include="Test\P1470ShuffleTheArrayTest.cs" />
     <Compile Include="Test\P1471TheKStrongestValuesInAnArrayTest.cs" />
     <Compile Include="Test\P1472DesignBrowserHistoryTest.cs" />
+    <Compile Include="Test\P1486XOROperationInAnArrayTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P1TwoSumTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
