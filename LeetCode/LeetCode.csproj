@@ -181,6 +181,7 @@
     <Compile Include="Src\P1487MakingFileNamesUnique.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
+    <Compile Include="Src\P222CountCompleteTreeNodes.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
     <Compile Include="Src\P231PowerOfTwo.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
@@ -240,6 +241,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\P1417ReformatTheStringTest.cs" />
     <Compile Include="Test\P206ReverseLinkedListTest.cs" />
+    <Compile Include="Test\P222CountCompleteTreeNodesTest.cs" />
     <Compile Include="Test\P226InvertBinaryTreeTest.cs" />
     <Compile Include="Test\P231PowerOfTwoTest.cs" />
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
