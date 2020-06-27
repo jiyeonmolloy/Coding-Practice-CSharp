@@ -185,6 +185,7 @@
     <Compile Include="Src\P222CountCompleteTreeNodes.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
     <Compile Include="Src\P231PowerOfTwo.cs" />
+    <Compile Include="Src\P287FindTheDuplicateNumber.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P344ReverseString.cs" />
     <Compile Include="Src\P35SearchInsertPosition.cs" />
@@ -248,6 +249,7 @@
     <Compile Include="Test\P231PowerOfTwoTest.cs" />
     <Compile Include="Test\P238ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
+    <Compile Include="Test\P287FindTheDuplicateNumberTest.cs" />
     <Compile Include="Test\P338CountingBitsTest.cs" />
     <Compile Include="Test\P344ReverseStringTest.cs" />
     <Compile Include="Test\P35SearchInsertPositionTest.cs" />
