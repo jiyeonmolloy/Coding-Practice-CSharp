@@ -204,6 +204,7 @@
     <Compile Include="Src\P5454LeastNumberOfUniqueIntegersAfterKRemovals.cs" />
     <Compile Include="Src\P567PermutationInString.cs" />
     <Compile Include="Src\P62UniquePaths.cs" />
+    <Compile Include="Src\P66PlusOne.cs" />
     <Compile Include="Src\P700SearchInABinarySearchTree.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
@@ -277,6 +278,7 @@
     <Compile Include="Test\P5454LeastNumberOfUniqueIntegersAfterKRemovalsTest.cs" />
     <Compile Include="Test\P567PermutationInStringTest.cs" />
     <Compile Include="Test\P62UniquePathsTest.cs" />
+    <Compile Include="Test\P66PlusOneTest.cs" />
     <Compile Include="Test\P700SearchInABinarySearchTreeTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
