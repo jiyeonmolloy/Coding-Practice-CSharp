@@ -182,6 +182,7 @@
     <Compile Include="Src\P1487MakingFileNamesUnique.cs" />
     <Compile Include="Src\P1496PathCrossing.cs" />
     <Compile Include="Src\P1512NumberOfGoodPairs.cs" />
+    <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P222CountCompleteTreeNodes.cs" />
@@ -249,6 +250,7 @@
     <Compile Include="Test\P1496PathCrossingTest.cs" />
     <Compile Include="Test\P1512NumberOfGoodPairsTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
+    <Compile Include="Test\P190ReverseBitsTest.cs" />
     <Compile Include="Test\P1TwoSumTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
