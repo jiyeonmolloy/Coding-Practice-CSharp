@@ -4,6 +4,7 @@ name: Build
 on:
   pull_request:
   push:
+    paths: '!README.md'
     branches: [ master ]
 
 jobs:
