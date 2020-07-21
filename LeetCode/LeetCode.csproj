@@ -185,6 +185,7 @@
     <Compile Include="Src\P1496PathCrossing.cs" />
     <Compile Include="Src\P1512NumberOfGoodPairs.cs" />
     <Compile Include="Src\P1513NumberOfSubstringsWithOnly1s.cs" />
+    <Compile Include="Src\P1518WaterBottles.cs" />
     <Compile Include="Src\P151ReverseWordsInAString.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
@@ -257,6 +258,7 @@
     <Compile Include="Test\P1496PathCrossingTest.cs" />
     <Compile Include="Test\P1512NumberOfGoodPairsTest.cs" />
     <Compile Include="Test\P1513NumberOfSubstringsWithOnly1sTest.cs" />
+    <Compile Include="Test\P1518WaterBottlesTest.cs" />
     <Compile Include="Test\P151ReverseWordsInAStringTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
