@@ -213,6 +213,7 @@
     <Compile Include="Src\P468ValidateIPAddress.cs" />
     <Compile Include="Src\P50PowXN.cs" />
     <Compile Include="Src\P525ContiguousArray.cs" />
+    <Compile Include="Src\P53MaximumSubarray.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
     <Compile Include="Src\P5453RunningSumOf1dArray.cs" />
     <Compile Include="Src\P5454LeastNumberOfUniqueIntegersAfterKRemovals.cs" />
@@ -304,6 +305,7 @@
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P50PowXNTest.cs" />
     <Compile Include="Test\P525ContiguousArrayTest.cs" />
+    <Compile Include="Test\P53MaximumSubarrayTest.cs" />
     <Compile Include="Test\P540SingleElementInASortedArrayTest.cs" />
     <Compile Include="Test\P5453RunningSumOf1dArrayTest.cs" />
     <Compile Include="Test\P5454LeastNumberOfUniqueIntegersAfterKRemovalsTest.cs" />
