@@ -212,6 +212,7 @@
     <Compile Include="Src\P461HammingDistance.cs" />
     <Compile Include="Src\P468ValidateIPAddress.cs" />
     <Compile Include="Src\P50PowXN.cs" />
+    <Compile Include="Src\P520DetectCapital.cs" />
     <Compile Include="Src\P525ContiguousArray.cs" />
     <Compile Include="Src\P53MaximumSubarray.cs" />
     <Compile Include="Src\P540SingleElementInASortedArray.cs" />
@@ -304,6 +305,7 @@
     <Compile Include="Test\P468ValidateIPAddressTest.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P50PowXNTest.cs" />
+    <Compile Include="Test\P520DetectCapitalTest.cs" />
     <Compile Include="Test\P525ContiguousArrayTest.cs" />
     <Compile Include="Test\P53MaximumSubarrayTest.cs" />
     <Compile Include="Test\P540SingleElementInASortedArrayTest.cs" />
