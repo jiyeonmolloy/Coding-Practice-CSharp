@@ -225,6 +225,7 @@
     <Compile Include="Src\P662MaximumWidthOfBinaryTree.cs" />
     <Compile Include="Src\P66PlusOne.cs" />
     <Compile Include="Src\P700SearchInABinarySearchTree.cs" />
+    <Compile Include="Src\P705DesignHashSet.cs" />
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
@@ -319,6 +320,7 @@
     <Compile Include="Test\P662MaximumWidthOfBinaryTreeTest.cs" />
     <Compile Include="Test\P66PlusOneTest.cs" />
     <Compile Include="Test\P700SearchInABinarySearchTreeTest.cs" />
+    <Compile Include="Test\P705DesignHashSetTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
