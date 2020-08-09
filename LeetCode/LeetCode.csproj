@@ -195,6 +195,7 @@
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P203RemoveLinkedListElements.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
+    <Compile Include="Src\P208ImplementTriePrefixTree.cs" />
     <Compile Include="Src\P222CountCompleteTreeNodes.cs" />
     <Compile Include="Src\P226InvertBinaryTree.cs" />
     <Compile Include="Src\P231PowerOfTwo.cs" />
@@ -286,6 +287,7 @@
     <Compile Include="Test\P1417ReformatTheStringTest.cs" />
     <Compile Include="Test\P203RemoveLinkedListElementsTest.cs" />
     <Compile Include="Test\P206ReverseLinkedListTest.cs" />
+    <Compile Include="Test\P208ImplementTriePrefixTreeTest.cs" />
     <Compile Include="Test\P222CountCompleteTreeNodesTest.cs" />
     <Compile Include="Test\P226InvertBinaryTreeTest.cs" />
     <Compile Include="Test\P231PowerOfTwoTest.cs" />
