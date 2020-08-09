@@ -192,6 +192,7 @@
     <Compile Include="Src\P1528ShuffleString.cs" />
     <Compile Include="Src\P1529BulbSwitcherIV.cs" />
     <Compile Include="Src\P1544MakeTheStringGreat.cs" />
+    <Compile Include="Src\P1545FindKthBitInNthBinaryString.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P203RemoveLinkedListElements.cs" />
@@ -281,6 +282,7 @@
     <Compile Include="Test\P1528ShuffleStringTest.cs" />
     <Compile Include="Test\P1529BulbSwitcherIVTest.cs" />
     <Compile Include="Test\P1544MakeTheStringGreatTest.cs" />
+    <Compile Include="Test\P1545FindKthBitInNthBinaryStringTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
     <Compile Include="Test\P1TwoSumTest.cs" />
