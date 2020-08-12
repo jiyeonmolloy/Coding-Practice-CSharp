@@ -2,7 +2,7 @@
 
 namespace LeetCode.Src {
     /// <summary>
-    /// P171ExcelSheetColumnNumber
+    /// P171 Excel Sheet Column Number
     ///  href = https://leetcode.com/problems/excel-sheet-column-number/
     /// </summary>
     class P171ExcelSheetColumnNumber {

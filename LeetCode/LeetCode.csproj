@@ -168,6 +168,7 @@
     <Compile Include="Src\P1008ConstructBSTFromPreorderTraversal.cs" />
     <Compile Include="Src\P100SameTree.cs" />
     <Compile Include="Src\P1143LongestCommonSubsequence.cs" />
+    <Compile Include="Src\P118PascalsTriangle.cs" />
     <Compile Include="Src\P121BestTimeToBuyAndSellStock.cs" />
     <Compile Include="Src\P125ValidPalindrome.cs" />
     <Compile Include="Src\P129SumRootToLeafNumbers.cs" />
@@ -254,6 +255,7 @@
     <Compile Include="Test\P1008ConstructBSTFromPreorderTraversalTest.cs" />
     <Compile Include="Test\P100SameTreeTest.cs" />
     <Compile Include="Test\P1143LongestCommonSubsequenceTest.cs" />
+    <Compile Include="Test\P118PascalsTriangleTest.cs" />
     <Compile Include="Test\P121BestTimeToBuyAndSellStockTest.cs" />
     <Compile Include="Test\P125ValidPalindromeTest.cs" />
     <Compile Include="Test\P129SumRootToLeafNumbersTest.cs" />
