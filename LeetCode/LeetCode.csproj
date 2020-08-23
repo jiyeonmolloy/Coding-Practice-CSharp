@@ -198,6 +198,7 @@
     <Compile Include="Src\P1545FindKthBitInNthBinaryString.cs" />
     <Compile Include="Src\P1550ThreeConsecutiveOdds.cs" />
     <Compile Include="Src\P1551MinimumOperationsToMakeArrayEqual.cs" />
+    <Compile Include="Src\P1560MostVisitedSectorInACircularTrack.cs" />
     <Compile Include="Src\P1561MaximumNumberOfCoinsYouCanGet.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
@@ -296,6 +297,7 @@
     <Compile Include="Test\P1545FindKthBitInNthBinaryStringTest.cs" />
     <Compile Include="Test\P1550ThreeConsecutiveOddsTest.cs" />
     <Compile Include="Test\P1551MinimumOperationsToMakeArrayEqualTest.cs" />
+    <Compile Include="Test\P1560MostVisitedSectorInACircularTrackTest.cs" />
     <Compile Include="Test\P1561MaximumNumberOfCoinsYouCanGetTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
