@@ -221,6 +221,7 @@
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P404SumOfLeftLeaves.cs" />
     <Compile Include="Src\P406QueueReconstructionByHeight.cs" />
+    <Compile Include="Src\P412FizzBuzz.cs" />
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
     <Compile Include="Src\P441ArrangingCoins.cs" />
     <Compile Include="Src\P442FindAllDuplicatesInAnArray.cs" />
@@ -331,6 +332,7 @@
     <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P404SumOfLeftLeavesTest.cs" />
     <Compile Include="Test\P406QueueReconstructionByHeightTest.cs" />
+    <Compile Include="Test\P412FizzBuzzTest.cs" />
     <Compile Include="Test\P438FindAllAnagramsInAStringTest.cs" />
     <Compile Include="Test\P441ArrangingCoinsTest.cs" />
     <Compile Include="Test\P442FindAllDuplicatesInAnArrayTest.cs" />
