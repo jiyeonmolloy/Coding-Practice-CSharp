@@ -228,6 +228,7 @@
     <Compile Include="Src\P442FindAllDuplicatesInAnArray.cs" />
     <Compile Include="Src\P461HammingDistance.cs" />
     <Compile Include="Src\P468ValidateIPAddress.cs" />
+    <Compile Include="Src\P470ImplementRand10UsingRand7.cs" />
     <Compile Include="Src\P50PowXN.cs" />
     <Compile Include="Src\P520DetectCapital.cs" />
     <Compile Include="Src\P525ContiguousArray.cs" />
@@ -340,6 +341,7 @@
     <Compile Include="Test\P442FindAllDuplicatesInAnArrayTest.cs" />
     <Compile Include="Test\P461HammingDistanceTest.cs" />
     <Compile Include="Test\P468ValidateIPAddressTest.cs" />
+    <Compile Include="Test\P470ImplementRand10UsingRand7Test.cs" />
     <Compile Include="Test\P476NumberComplementTest.cs" />
     <Compile Include="Test\P50PowXNTest.cs" />
     <Compile Include="Test\P520DetectCapitalTest.cs" />
