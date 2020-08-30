@@ -4,6 +4,7 @@ namespace LeetCode.Src {
     /// <summary>
     /// P470 Implement Rand10 Using Rand7
     ///  href = https://leetcode.com/problems/implement-rand10-using-rand7/
+    /// Key: Rejection Sampling
     /// </summary>
     class P470ImplementRand10UsingRand7 {
         private static int Rand7 () {
