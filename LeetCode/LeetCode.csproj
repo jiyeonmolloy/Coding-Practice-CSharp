@@ -226,6 +226,7 @@
     <Compile Include="Src\P438FindAllAnagramsInAString.cs" />
     <Compile Include="Src\P441ArrangingCoins.cs" />
     <Compile Include="Src\P442FindAllDuplicatesInAnArray.cs" />
+    <Compile Include="Src\P450DeleteNodeInABST.cs" />
     <Compile Include="Src\P461HammingDistance.cs" />
     <Compile Include="Src\P468ValidateIPAddress.cs" />
     <Compile Include="Src\P470ImplementRand10UsingRand7.cs" />
@@ -339,6 +340,7 @@
     <Compile Include="Test\P438FindAllAnagramsInAStringTest.cs" />
     <Compile Include="Test\P441ArrangingCoinsTest.cs" />
     <Compile Include="Test\P442FindAllDuplicatesInAnArrayTest.cs" />
+    <Compile Include="Test\P450DeleteNodeInABSTTest.cs" />
     <Compile Include="Test\P461HammingDistanceTest.cs" />
     <Compile Include="Test\P468ValidateIPAddressTest.cs" />
     <Compile Include="Test\P470ImplementRand10UsingRand7Test.cs" />
