@@ -165,6 +165,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Src\Common\ListNode.cs" />
+    <Compile Include="Src\Common\Permutator.cs" />
     <Compile Include="Src\P1008ConstructBSTFromPreorderTraversal.cs" />
     <Compile Include="Src\P100SameTree.cs" />
     <Compile Include="Src\P1103DistributeCandiesToPeople.cs" />
@@ -247,6 +248,7 @@
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P824GoatLatin.cs" />
     <Compile Include="Src\P905SortArrayByParity.cs" />
+    <Compile Include="Src\P949LargestTimeForGivenDigits.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
     <Compile Include="Src\Common\TreeNode.cs" />
@@ -363,6 +365,7 @@
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P824GoatLatinTest.cs" />
     <Compile Include="Test\P905SortArrayByParityTest.cs" />
+    <Compile Include="Test\P949LargestTimeForGivenDigitsTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
     <Compile Include="Test\P997FindTheTownJudgeTest.cs" />
     <Compile Include="Test\WeeklyChallenge.cs" />
