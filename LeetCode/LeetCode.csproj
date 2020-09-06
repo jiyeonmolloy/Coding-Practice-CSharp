@@ -202,6 +202,7 @@
     <Compile Include="Src\P1560MostVisitedSectorInACircularTrack.cs" />
     <Compile Include="Src\P1561MaximumNumberOfCoinsYouCanGet.cs" />
     <Compile Include="Src\P1566DetectPatternOfLengthMRepeatedKOrMoreTimes.cs" />
+    <Compile Include="Src\P1576ReplaceAllQuestionMarksToAvoidConsecutiveRepeatingCharacters.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
@@ -310,6 +311,7 @@
     <Compile Include="Test\P1560MostVisitedSectorInACircularTrackTest.cs" />
     <Compile Include="Test\P1561MaximumNumberOfCoinsYouCanGetTest.cs" />
     <Compile Include="Test\P1566DetectPatternOfLengthMRepeatedKOrMoreTimesTest.cs" />
+    <Compile Include="Test\P1576ReplaceAllQuestionMarksToAvoidConsecutiveRepeatingCharactersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
