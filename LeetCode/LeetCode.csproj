@@ -206,6 +206,7 @@
     <Compile Include="Src\P1566DetectPatternOfLengthMRepeatedKOrMoreTimes.cs" />
     <Compile Include="Src\P1576ReplaceAllQuestionMarksToAvoidConsecutiveRepeatingCharacters.cs" />
     <Compile Include="Src\P1577NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers.cs" />
+    <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
@@ -319,6 +320,7 @@
     <Compile Include="Test\P1566DetectPatternOfLengthMRepeatedKOrMoreTimesTest.cs" />
     <Compile Include="Test\P1576ReplaceAllQuestionMarksToAvoidConsecutiveRepeatingCharactersTest.cs" />
     <Compile Include="Test\P1577NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbersTest.cs" />
+    <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
