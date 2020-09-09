@@ -16,6 +16,9 @@ jobs:
         
       - name: Setup MSBuild Path
         uses: warrenbuckley/Setup-MSBuild@v1
+        
+      - name: Setup VSTest Path
+        uses: darenm/Setup-VSTest@v1
        
       - name: Setup NuGet
         uses: NuGet/setup-nuget@v1.0.2
@@ -25,3 +28,6 @@ jobs:
  
       - name: Build and Publish
         run: msbuild Coding-Practice-CSharp.sln /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile 
+        
+      - name: Run Tests
+        run: vstest.console.exe LeetCode\bin\Debug\CodingPractice.dll
