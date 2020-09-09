@@ -30,4 +30,4 @@ jobs:
         run: msbuild Coding-Practice-CSharp.sln /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile 
         
       - name: Run Tests
-        run: vstest.console.exe LeetCode\bin\Debug\CodingPractice.dll
+        run: vstest.console.exe LeetCode\bin\Release\CodingPractice.dll
