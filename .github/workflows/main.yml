@@ -28,7 +28,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ./packages
-          key: ${{ runner.os }}-LeetCode-package-cache-${{ hashFiles('LeetCode/package.json') }}
+          key: ${{ runner.os }}-LeetCode-package-cache-${{ hashFiles('LeetCode/packages.config') }}
      
       - name: Restore NuGet Packages
         if: steps.LeetCode-package-cache.outputs.cache-hit != 'true'
