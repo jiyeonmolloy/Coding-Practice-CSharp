@@ -22,8 +22,16 @@ jobs:
        
       - name: Setup NuGet
         uses: NuGet/setup-nuget@v1.0.2
+        
+      - name: Restore Build Cache
+        id: LeetCode-package-cache
+        uses: actions/cache@v2
+        with:
+          path: ./packages
+          key: ${{ runner.os }}-LeetCode-package-cache-${{ hashFiles('LeetCode/package.json') }}
      
       - name: Restore NuGet Packages
+        if: steps.LeetCode-package-cache.outputs.cache-hit != 'true'
         run: nuget restore Coding-Practice-CSharp.sln
  
       - name: Build and Publish
