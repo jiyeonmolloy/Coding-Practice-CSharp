@@ -39,3 +39,9 @@ jobs:
         
       - name: Run Tests
         run: vstest.console.exe LeetCode\bin\Release\CodingPractice.dll /Parallel
+      
+      - name: Upload Test Results
+        uses: actions/upload-artifact@master
+        with:
+          name: test-results
+          path: ./TestResults
