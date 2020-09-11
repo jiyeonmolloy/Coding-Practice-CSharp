@@ -221,6 +221,7 @@
     <Compile Include="Src\P260SingleNumberIII.cs" />
     <Compile Include="Src\P287FindTheDuplicateNumber.cs" />
     <Compile Include="Src\P290WordPattern.cs" />
+    <Compile Include="Src\P299BullsAndCows.cs" />
     <Compile Include="Src\P332ReconstructItinerary.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
     <Compile Include="Src\P342PowerOfFour.cs" />
@@ -341,6 +342,7 @@
     <Compile Include="Test\P278FirstBadVersionTest.cs" />
     <Compile Include="Test\P287FindTheDuplicateNumberTest.cs" />
     <Compile Include="Test\P290WordPatternTest.cs" />
+    <Compile Include="Test\P299BullsAndCowsTest.cs" />
     <Compile Include="Test\P332ReconstructItineraryTest.cs" />
     <Compile Include="Test\P338CountingBitsTest.cs" />
     <Compile Include="Test\P342PowerOfFourTest.cs" />
