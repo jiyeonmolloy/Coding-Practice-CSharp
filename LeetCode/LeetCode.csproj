@@ -211,6 +211,7 @@
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
+    <Compile Include="Src\P198HouseRobber.cs" />
     <Compile Include="Src\P1TwoSum.cs" />
     <Compile Include="Src\P203RemoveLinkedListElements.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
@@ -329,6 +330,7 @@
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
+    <Compile Include="Test\P198HouseRobberTest.cs" />
     <Compile Include="Test\P1TwoSumTest.cs" />
     <Compile Include="Test\P202HappyNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
