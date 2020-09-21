@@ -208,6 +208,7 @@
     <Compile Include="Src\P1577NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers.cs" />
     <Compile Include="Src\P1582SpecialPositionsInABinaryMatrix.cs" />
     <Compile Include="Src\P1583CountUnhappyFriends.cs" />
+    <Compile Include="Src\P1592RearrangeSpacesBetweenWords.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
@@ -328,6 +329,7 @@
     <Compile Include="Test\P1577NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbersTest.cs" />
     <Compile Include="Test\P1582SpecialPositionsInABinaryMatrixTest.cs" />
     <Compile Include="Test\P1583CountUnhappyFriendsTest.cs" />
+    <Compile Include="Test\P1592RearrangeSpacesBetweenWordsTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
