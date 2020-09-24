@@ -233,6 +233,7 @@
     <Compile Include="Src\P342PowerOfFour.cs" />
     <Compile Include="Src\P344ReverseString.cs" />
     <Compile Include="Src\P35SearchInsertPosition.cs" />
+    <Compile Include="Src\P389FindTheDifference.cs" />
     <Compile Include="Src\P392IsSubsequence.cs" />
     <Compile Include="Src\P402RemoveKDigits.cs" />
     <Compile Include="Src\P404SumOfLeftLeaves.cs" />
@@ -364,6 +365,7 @@
     <Compile Include="Test\P367ValidPerfectSquareTest.cs" />
     <Compile Include="Test\P383RansomNoteTest.cs" />
     <Compile Include="Test\P387FirstUniqueCharacterInStringTest.cs" />
+    <Compile Include="Test\P389FindTheDifferenceTest.cs" />
     <Compile Include="Test\P392IsSubsequenceTest.cs" />
     <Compile Include="Test\P402RemoveKDigitsTest.cs" />
     <Compile Include="Test\P404SumOfLeftLeavesTest.cs" />
