@@ -263,6 +263,7 @@
     <Compile Include="Src\P66PlusOne.cs" />
     <Compile Include="Src\P700SearchInABinarySearchTree.cs" />
     <Compile Include="Src\P705DesignHashSet.cs" />
+    <Compile Include="Src\P713SubarrayProductLessThanK.cs" />
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P824GoatLatin.cs" />
     <Compile Include="Src\P905SortArrayByParity.cs" />
@@ -397,6 +398,7 @@
     <Compile Include="Test\P66PlusOneTest.cs" />
     <Compile Include="Test\P700SearchInABinarySearchTreeTest.cs" />
     <Compile Include="Test\P705DesignHashSetTest.cs" />
+    <Compile Include="Test\P713SubarrayProductLessThanKTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P824GoatLatinTest.cs" />
