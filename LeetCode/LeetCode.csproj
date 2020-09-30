@@ -179,6 +179,7 @@
     <Compile Include="Src\P1305AllElementsInTwoBinarySearchTrees.cs" />
     <Compile Include="Src\P1344AngleBetweenHandsOfAClock.cs" />
     <Compile Include="Src\P137SingleNumberII.cs" />
+    <Compile Include="Src\P139WordBreak.cs" />
     <Compile Include="Src\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList.cs" />
     <Compile Include="Src\P1450NumberOfStudentsDoingHomeworkAtAGivenTime.cs" />
     <Compile Include="Src\P1451RearrangeWordsInASentence.cs" />
@@ -299,6 +300,7 @@
     <Compile Include="Test\P1305AllElementsInTwoBinarySearchTreesTest.cs" />
     <Compile Include="Test\P1344AngleBetweenHandsOfAClockTest.cs" />
     <Compile Include="Test\P137SingleNumberIITest.cs" />
+    <Compile Include="Test\P139WordBreakTest.cs" />
     <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
     <Compile Include="Test\P1423MaximumPointsYouCanObtainFromCardsTest.cs" />
     <Compile Include="Test\P1437CheckIfAll1sAreAtLeastKPlacesAwayTest.cs" />
