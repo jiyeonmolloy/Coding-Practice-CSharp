@@ -268,6 +268,7 @@
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P824GoatLatin.cs" />
     <Compile Include="Src\P905SortArrayByParity.cs" />
+    <Compile Include="Src\P933NumberOfRecentCalls.cs" />
     <Compile Include="Src\P949LargestTimeForGivenDigits.cs" />
     <Compile Include="Src\P997FindTheTownJudge.cs" />
     <Compile Include="Src\P1441BuildAnArrayWithStackOperations.cs" />
@@ -405,6 +406,7 @@
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P824GoatLatinTest.cs" />
     <Compile Include="Test\P905SortArrayByParityTest.cs" />
+    <Compile Include="Test\P933NumberOfRecentCallsTest.cs" />
     <Compile Include="Test\P949LargestTimeForGivenDigitsTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
     <Compile Include="Test\P997FindTheTownJudgeTest.cs" />
