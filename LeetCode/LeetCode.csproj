@@ -214,6 +214,7 @@
     <Compile Include="Src\P1592RearrangeSpacesBetweenWords.cs" />
     <Compile Include="Src\P1598CrawlerLogFolder.cs" />
     <Compile Include="Src\P1608SpecialArrayWithXElementsGreaterThanOrEqualX.cs" />
+    <Compile Include="Src\P1614MaximumNestingDepthOfTheParentheses.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
@@ -345,6 +346,7 @@
     <Compile Include="Test\P1592RearrangeSpacesBetweenWordsTest.cs" />
     <Compile Include="Test\P1598CrawlerLogFolderTest.cs" />
     <Compile Include="Test\P1608SpecialArrayWithXElementsGreaterThanOrEqualXTest.cs" />
+    <Compile Include="Test\P1614MaximumNestingDepthOfTheParenthesesTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
