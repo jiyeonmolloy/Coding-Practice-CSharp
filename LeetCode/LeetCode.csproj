@@ -166,6 +166,7 @@
   <ItemGroup>
     <Compile Include="Src\Common\ListNode.cs" />
     <Compile Include="Src\Common\Permutator.cs" />
+    <Compile Include="Src\P1007MinimumDominoRotationsForEqualRow.cs" />
     <Compile Include="Src\P1008ConstructBSTFromPreorderTraversal.cs" />
     <Compile Include="Src\P1009ComplementOfBase10Integer.cs" />
     <Compile Include="Src\P100SameTree.cs" />
@@ -301,6 +302,7 @@
     <Compile Include="Src\P476NumberComplement.cs" />
     <Compile Include="Src\P771JewelsAndStones.cs" />
     <Compile Include="Src\P965UnivaluedBinaryTree.cs" />
+    <Compile Include="Test\P1007MinimumDominoRotationsForEqualRowTest.cs" />
     <Compile Include="Test\P1008ConstructBSTFromPreorderTraversalTest.cs" />
     <Compile Include="Test\P1009ComplementOfBase10IntegerTest.cs" />
     <Compile Include="Test\P100SameTreeTest.cs" />

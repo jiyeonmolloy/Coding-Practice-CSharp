@@ -8,6 +8,6 @@ LeetCode, HackerRank
 
 # Progress
  - [ ] [LeetCode](https://leetcode.com/jiii/)
-    - [ ] [Algorithms](LeetCode/Src/) (139/1473)
+    - [ ] [Algorithms](LeetCode/Src/) (140/1473)
     
     
