@@ -219,6 +219,7 @@
     <Compile Include="Src\P1616SplitTwoStringsToMakePalindrome.cs" />
     <Compile Include="Src\P1624LargestSubstringBetweenTwoEqualCharacters.cs" />
     <Compile Include="Src\P1625LexicographicallySmallestStringAfterApplyingOperations.cs" />
+    <Compile Include="Src\P1626BestTeamWithNoConflicts.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
@@ -358,6 +359,7 @@
     <Compile Include="Test\P1616SplitTwoStringsToMakePalindromeTest.cs" />
     <Compile Include="Test\P1624LargestSubstringBetweenTwoEqualCharactersTest.cs" />
     <Compile Include="Test\P1625LexicographicallySmallestStringAfterApplyingOperationsTest.cs" />
+    <Compile Include="Test\P1626BestTeamWithNoConflictsTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
