@@ -278,6 +278,7 @@
     <Compile Include="Src\P704BinarySearch.cs" />
     <Compile Include="Src\P705DesignHashSet.cs" />
     <Compile Include="Src\P713SubarrayProductLessThanK.cs" />
+    <Compile Include="Src\P74SearchA2DMatrix.cs" />
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P824GoatLatin.cs" />
     <Compile Include="Src\P859BuddyStrings.cs" />
@@ -429,6 +430,7 @@
     <Compile Include="Test\P704BinarySearchTest.cs" />
     <Compile Include="Test\P705DesignHashSetTest.cs" />
     <Compile Include="Test\P713SubarrayProductLessThanKTest.cs" />
+    <Compile Include="Test\P74SearchA2DMatrixTest.cs" />
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P824GoatLatinTest.cs" />
