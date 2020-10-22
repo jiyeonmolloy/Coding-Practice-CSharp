@@ -172,6 +172,7 @@
     <Compile Include="Src\P100SameTree.cs" />
     <Compile Include="Src\P1022SumOfRootToLeafBinaryNumbers.cs" />
     <Compile Include="Src\P1103DistributeCandiesToPeople.cs" />
+    <Compile Include="Src\P111MinimumDepthOfBinaryTree.cs" />
     <Compile Include="Src\P1143LongestCommonSubsequence.cs" />
     <Compile Include="Src\P118PascalsTriangle.cs" />
     <Compile Include="Src\P119PascalsTriangleII.cs" />
@@ -309,6 +310,7 @@
     <Compile Include="Test\P100SameTreeTest.cs" />
     <Compile Include="Test\P1022SumOfRootToLeafBinaryNumbersTest.cs" />
     <Compile Include="Test\P1103DistributeCandiesToPeopleTest.cs" />
+    <Compile Include="Test\P111MinimumDepthOfBinaryTreeTest.cs" />
     <Compile Include="Test\P1143LongestCommonSubsequenceTest.cs" />
     <Compile Include="Test\P118PascalsTriangleTest.cs" />
     <Compile Include="Test\P119PascalsTriangleIITest.cs" />
