@@ -260,6 +260,7 @@
     <Compile Include="Src\P441ArrangingCoins.cs" />
     <Compile Include="Src\P442FindAllDuplicatesInAnArray.cs" />
     <Compile Include="Src\P450DeleteNodeInABST.cs" />
+    <Compile Include="Src\P456OneThreeTwoPattern.cs" />
     <Compile Include="Src\P459RepeatedSubstringPattern.cs" />
     <Compile Include="Src\P461HammingDistance.cs" />
     <Compile Include="Src\P468ValidateIPAddress.cs" />
@@ -414,6 +415,7 @@
     <Compile Include="Test\P441ArrangingCoinsTest.cs" />
     <Compile Include="Test\P442FindAllDuplicatesInAnArrayTest.cs" />
     <Compile Include="Test\P450DeleteNodeInABSTTest.cs" />
+    <Compile Include="Test\P456OneThreeTwoPatternTest.cs" />
     <Compile Include="Test\P459RepeatedSubstringPatternTest.cs" />
     <Compile Include="Test\P461HammingDistanceTest.cs" />
     <Compile Include="Test\P468ValidateIPAddressTest.cs" />
