@@ -226,6 +226,7 @@
     <Compile Include="Src\P1630ArithmeticSubarrays.cs" />
     <Compile Include="Src\P1640CheckArrayFormationThroughConcatenation.cs" />
     <Compile Include="Src\P1641CountSortedVowelStrings.cs" />
+    <Compile Include="Src\P1642FurthestBuildingYouCanReach.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
@@ -374,6 +375,7 @@
     <Compile Include="Test\P1630ArithmeticSubarraysTest.cs" />
     <Compile Include="Test\P1640CheckArrayFormationThroughConcatenationTest.cs" />
     <Compile Include="Test\P1641CountSortedVowelStringsTest.cs" />
+    <Compile Include="Test\P1642FurthestBuildingYouCanReachTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />

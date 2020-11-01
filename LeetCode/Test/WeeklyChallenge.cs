@@ -11,11 +11,17 @@ using NHibernate.Id.Insert;
 using FluentAssertions;
 using Newtonsoft.Json.Serialization;
 using System.Collections.Specialized;
+using System.Text;
+using LeetCode.Src;
 using NHibernate.Hql.Ast.ANTLR.Tree;
+using NHibernate.Transform;
+using Remotion.Linq.Clauses.ResultOperators;
+using Remotion.Linq.Parsing.ExpressionVisitors.Transformation.PredefinedTransformations;
 
 namespace CodingPractice.Test {
     [TestClass]
     public class WeeklyChallenge : TreeNode {
+        
 
         [TestMethod]
         public void ClimbingChairsTest () {
