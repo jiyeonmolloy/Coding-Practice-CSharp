@@ -179,6 +179,7 @@
     <Compile Include="Src\P121BestTimeToBuyAndSellStock.cs" />
     <Compile Include="Src\P125ValidPalindrome.cs" />
     <Compile Include="Src\P1288RemoveCoveredIntervals.cs" />
+    <Compile Include="Src\P1290ConvertBinaryNumberInALinkedListToInteger.cs" />
     <Compile Include="Src\P129SumRootToLeafNumbers.cs" />
     <Compile Include="Src\P1305AllElementsInTwoBinarySearchTrees.cs" />
     <Compile Include="Src\P1344AngleBetweenHandsOfAClock.cs" />
@@ -323,6 +324,7 @@
     <Compile Include="Test\P121BestTimeToBuyAndSellStockTest.cs" />
     <Compile Include="Test\P125ValidPalindromeTest.cs" />
     <Compile Include="Test\P1288RemoveCoveredIntervalsTest.cs" />
+    <Compile Include="Test\P1290ConvertBinaryNumberInALinkedListToIntegerTest.cs" />
     <Compile Include="Test\P129SumRootToLeafNumbersTest.cs" />
     <Compile Include="Test\P1305AllElementsInTwoBinarySearchTreesTest.cs" />
     <Compile Include="Test\P1344AngleBetweenHandsOfAClockTest.cs" />
