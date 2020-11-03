@@ -194,6 +194,7 @@
     <Compile Include="Src\P1470ShuffleTheArray.cs" />
     <Compile Include="Src\P1471TheKStrongestValuesInAnArray.cs" />
     <Compile Include="Src\P1472DesignBrowserHistory.cs" />
+    <Compile Include="Src\P147InsertionSortList.cs" />
     <Compile Include="Src\P1486XOROperationInAnArray.cs" />
     <Compile Include="Src\P1487MakingFileNamesUnique.cs" />
     <Compile Include="Src\P1496PathCrossing.cs" />
@@ -344,6 +345,7 @@
     <Compile Include="Test\P1470ShuffleTheArrayTest.cs" />
     <Compile Include="Test\P1471TheKStrongestValuesInAnArrayTest.cs" />
     <Compile Include="Test\P1472DesignBrowserHistoryTest.cs" />
+    <Compile Include="Test\P147InsertionSortListTest.cs" />
     <Compile Include="Test\P1486XOROperationInAnArrayTest.cs" />
     <Compile Include="Test\P1487MakingFileNamesUniqueTest.cs" />
     <Compile Include="Test\P1496PathCrossingTest.cs" />
