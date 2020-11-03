@@ -185,6 +185,7 @@
     <Compile Include="Src\P1344AngleBetweenHandsOfAClock.cs" />
     <Compile Include="Src\P137SingleNumberII.cs" />
     <Compile Include="Src\P139WordBreak.cs" />
+    <Compile Include="Src\P1446ConsecutiveCharacters.cs" />
     <Compile Include="Src\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList.cs" />
     <Compile Include="Src\P1450NumberOfStudentsDoingHomeworkAtAGivenTime.cs" />
     <Compile Include="Src\P1451RearrangeWordsInASentence.cs" />
@@ -336,6 +337,7 @@
     <Compile Include="Test\P1437CheckIfAll1sAreAtLeastKPlacesAwayTest.cs" />
     <Compile Include="Test\P1441BuildAnArrayWithStackOperationsTest.cs" />
     <Compile Include="Test\P1442CountTripletsThatCanFormTwoArraysOfEqualXORTest.cs" />
+    <Compile Include="Test\P1446ConsecutiveCharactersTest.cs" />
     <Compile Include="Test\P1450NumberOfStudentsDoingHomeworkAtAGivenTimeTest.cs" />
     <Compile Include="Test\P1451RearrangeWordsInASentenceTest.cs" />
     <Compile Include="Test\P1452PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherListTest.cs" />
