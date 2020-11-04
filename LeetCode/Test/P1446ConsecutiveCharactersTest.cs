@@ -7,6 +7,7 @@ namespace LeetCode.Test {
         [TestMethod]
         public void MaxPowerTest () {
             Assert.AreEqual(2, P1446ConsecutiveCharacters.MaxPower("leetcode"));
+            Assert.AreEqual(1, P1446ConsecutiveCharacters.MaxPower("tourist"));
             Assert.AreEqual(5, P1446ConsecutiveCharacters.MaxPower("abbcccddddeeeeedcba"));
             Assert.AreEqual(5, P1446ConsecutiveCharacters.MaxPower("triplepillooooow"));
             Assert.AreEqual(11, P1446ConsecutiveCharacters.MaxPower("hooraaaaaaaaaaay"));

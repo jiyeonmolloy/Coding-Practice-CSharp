@@ -11,7 +11,7 @@ namespace LeetCode.Src {
             }
 
             int count = 1;
-            int max = 0;
+            int max = 1;
             char previous = s[0];
 
             for (int i = 1; i < s.Length; i++) {
