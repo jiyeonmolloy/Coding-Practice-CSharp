@@ -252,6 +252,7 @@
     <Compile Include="Src\P287FindTheDuplicateNumber.cs" />
     <Compile Include="Src\P290WordPattern.cs" />
     <Compile Include="Src\P299BullsAndCows.cs" />
+    <Compile Include="Src\P310MinimumHeightTrees.cs" />
     <Compile Include="Src\P316RemoveDuplicateLetters.cs" />
     <Compile Include="Src\P332ReconstructItinerary.cs" />
     <Compile Include="Src\P338CountingBits.cs" />
@@ -282,6 +283,7 @@
     <Compile Include="Src\P5454LeastNumberOfUniqueIntegersAfterKRemovals.cs" />
     <Compile Include="Src\P567PermutationInString.cs" />
     <Compile Include="Src\P58LengthOfLastWord.cs" />
+    <Compile Include="Src\P593ValidSquare.cs" />
     <Compile Include="Src\P621TaskScheduler.cs" />
     <Compile Include="Src\P62UniquePaths.cs" />
     <Compile Include="Src\P662MaximumWidthOfBinaryTree.cs" />
@@ -412,6 +414,7 @@
     <Compile Include="Test\P287FindTheDuplicateNumberTest.cs" />
     <Compile Include="Test\P290WordPatternTest.cs" />
     <Compile Include="Test\P299BullsAndCowsTest.cs" />
+    <Compile Include="Test\P310MinimumHeightTreesTest.cs" />
     <Compile Include="Test\P316RemoveDuplicateLettersTest.cs" />
     <Compile Include="Test\P332ReconstructItineraryTest.cs" />
     <Compile Include="Test\P338CountingBitsTest.cs" />
@@ -446,6 +449,7 @@
     <Compile Include="Test\P5454LeastNumberOfUniqueIntegersAfterKRemovalsTest.cs" />
     <Compile Include="Test\P567PermutationInStringTest.cs" />
     <Compile Include="Test\P58LengthOfLastWordTest.cs" />
+    <Compile Include="Test\P593ValidSquareTest.cs" />
     <Compile Include="Test\P621TaskSchedulerTest.cs" />
     <Compile Include="Test\P62UniquePathsTest.cs" />
     <Compile Include="Test\P662MaximumWidthOfBinaryTreeTest.cs" />
