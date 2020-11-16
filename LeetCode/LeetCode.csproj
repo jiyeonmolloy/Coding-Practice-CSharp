@@ -233,6 +233,7 @@
     <Compile Include="Src\P1646GetMaximumInGeneratedArray.cs" />
     <Compile Include="Src\P1647MinimumDeletionsToMakeCharacterFrequenciesUnique.cs" />
     <Compile Include="Src\P1656DesignAnOrderedStream.cs" />
+    <Compile Include="Src\P1657DetermineIfTwoStringsAreClose.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
@@ -391,6 +392,7 @@
     <Compile Include="Test\P1646GetMaximumInGeneratedArrayTest.cs" />
     <Compile Include="Test\P1647MinimumDeletionsToMakeCharacterFrequenciesUniqueTest.cs" />
     <Compile Include="Test\P1656DesignAnOrderedStreamTest.cs" />
+    <Compile Include="Test\P1657DetermineIfTwoStringsAreCloseTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
