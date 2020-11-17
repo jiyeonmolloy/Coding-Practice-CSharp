@@ -298,6 +298,7 @@
     <Compile Include="Src\P74SearchA2DMatrix.cs" />
     <Compile Include="Src\P79WordSearch.cs" />
     <Compile Include="Src\P824GoatLatin.cs" />
+    <Compile Include="Src\P845LongestMountainInArray.cs" />
     <Compile Include="Src\P859BuddyStrings.cs" />
     <Compile Include="Src\P905SortArrayByParity.cs" />
     <Compile Include="Src\P933NumberOfRecentCalls.cs" />
@@ -469,6 +470,7 @@
     <Compile Include="Test\P771JewelsAndStonesTest.cs" />
     <Compile Include="Test\P79WordSearchTest.cs" />
     <Compile Include="Test\P824GoatLatinTest.cs" />
+    <Compile Include="Test\P845LongestMountainInArrayTest.cs" />
     <Compile Include="Test\P859BuddyStringsTest.cs" />
     <Compile Include="Test\P905SortArrayByParityTest.cs" />
     <Compile Include="Test\P933NumberOfRecentCallsTest.cs" />
