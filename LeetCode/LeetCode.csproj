@@ -236,6 +236,7 @@
     <Compile Include="Src\P1657DetermineIfTwoStringsAreClose.cs" />
     <Compile Include="Src\P165CompareVersionNumbers.cs" />
     <Compile Include="Src\P1662CheckIfTwoStringArraysAreEquivalent.cs" />
+    <Compile Include="Src\P1663SmallestStringWithAGivenNumericValue.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
@@ -399,6 +400,7 @@
     <Compile Include="Test\P1657DetermineIfTwoStringsAreCloseTest.cs" />
     <Compile Include="Test\P165CompareVersionNumbersTest.cs" />
     <Compile Include="Test\P1662CheckIfTwoStringArraysAreEquivalentTest.cs" />
+    <Compile Include="Test\P1663SmallestStringWithAGivenNumericValueTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P189RotateArrayTest.cs" />
