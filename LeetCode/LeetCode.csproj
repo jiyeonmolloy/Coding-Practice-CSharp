@@ -243,6 +243,7 @@
     <Compile Include="Src\P1672RichestCustomerWealth.cs" />
     <Compile Include="Src\P1673FindTheMostCompetitiveSubsequence.cs" />
     <Compile Include="Src\P1688CountOfMatchesInTournament.cs" />
+    <Compile Include="Src\P1689PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
@@ -415,6 +416,7 @@
     <Compile Include="Test\P1672RichestCustomerWealthTest.cs" />
     <Compile Include="Test\P1673FindTheMostCompetitiveSubsequenceTest.cs" />
     <Compile Include="Test\P1688CountOfMatchesInTournamentTest.cs" />
+    <Compile Include="Test\P1689PartitioningIntoMinimumNumberOfDeci-BinaryNumbersTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P189RotateArrayTest.cs" />
