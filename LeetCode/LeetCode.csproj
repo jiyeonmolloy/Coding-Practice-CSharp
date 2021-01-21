@@ -208,6 +208,7 @@
     <Compile Include="Src\P151ReverseWordsInAString.cs" />
     <Compile Include="Src\P1528ShuffleString.cs" />
     <Compile Include="Src\P1529BulbSwitcherIV.cs" />
+    <Compile Include="Src\P1539KthMissingPositiveNumber.cs" />
     <Compile Include="Src\P1544MakeTheStringGreat.cs" />
     <Compile Include="Src\P1545FindKthBitInNthBinaryString.cs" />
     <Compile Include="Src\P1550ThreeConsecutiveOdds.cs" />
@@ -383,6 +384,7 @@
     <Compile Include="Test\P151ReverseWordsInAStringTest.cs" />
     <Compile Include="Test\P1528ShuffleStringTest.cs" />
     <Compile Include="Test\P1529BulbSwitcherIVTest.cs" />
+    <Compile Include="Test\P1539KthMissingPositiveNumberTest.cs" />
     <Compile Include="Test\P1544MakeTheStringGreatTest.cs" />
     <Compile Include="Test\P1545FindKthBitInNthBinaryStringTest.cs" />
     <Compile Include="Test\P1550ThreeConsecutiveOddsTest.cs" />
