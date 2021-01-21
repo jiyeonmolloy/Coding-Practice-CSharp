@@ -255,6 +255,7 @@
     <Compile Include="Src\P203RemoveLinkedListElements.cs" />
     <Compile Include="Src\P206ReverseLinkedList.cs" />
     <Compile Include="Src\P208ImplementTriePrefixTree.cs" />
+    <Compile Include="Src\P20ValidParentheses.cs" />
     <Compile Include="Src\P213HouseRobberII.cs" />
     <Compile Include="Src\P217ContainsDuplicate.cs" />
     <Compile Include="Src\P222CountCompleteTreeNodes.cs" />
@@ -435,6 +436,7 @@
     <Compile Include="Test\P203RemoveLinkedListElementsTest.cs" />
     <Compile Include="Test\P206ReverseLinkedListTest.cs" />
     <Compile Include="Test\P208ImplementTriePrefixTreeTest.cs" />
+    <Compile Include="Test\P20ValidParenthesesTest.cs" />
     <Compile Include="Test\P213HouseRobberIITest.cs" />
     <Compile Include="Test\P217ContainsDuplicateTest.cs" />
     <Compile Include="Test\P222CountCompleteTreeNodesTest.cs" />
