@@ -249,6 +249,7 @@
     <Compile Include="Src\P1694ReformatPhoneNumber.cs" />
     <Compile Include="Src\P1695MaximumErasureValue.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
+    <Compile Include="Src\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnes.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P198HouseRobber.cs" />
@@ -428,6 +429,7 @@
     <Compile Include="Test\P1695MaximumErasureValueTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
+    <Compile Include="Test\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnesTest.cs" />
     <Compile Include="Test\P189RotateArrayTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
     <Compile Include="Test\P198HouseRobberTest.cs" />
