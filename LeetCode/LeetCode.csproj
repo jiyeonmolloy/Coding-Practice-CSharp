@@ -250,6 +250,8 @@
     <Compile Include="Src\P1695MaximumErasureValue.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnes.cs" />
+    <Compile Include="Src\P1785MinimumElementsToAddToFormAGivenSum.cs" />
+    <Compile Include="Src\P1790CheckIfOneStringSwapCanMakeStringsEqual.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P198HouseRobber.cs" />
@@ -430,6 +432,8 @@
     <Compile Include="Test\P169MajorityElementTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnesTest.cs" />
+    <Compile Include="Test\P1785MinimumElementsToAddToFormAGivenSumTest.cs" />
+    <Compile Include="Test\P1790CheckIfOneStringSwapCanMakeStringsEqualTest.cs" />
     <Compile Include="Test\P189RotateArrayTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
     <Compile Include="Test\P198HouseRobberTest.cs" />
