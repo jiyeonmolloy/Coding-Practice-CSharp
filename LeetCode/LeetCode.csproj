@@ -187,6 +187,7 @@
     <Compile Include="Src\P1305AllElementsInTwoBinarySearchTrees.cs" />
     <Compile Include="Src\P1344AngleBetweenHandsOfAClock.cs" />
     <Compile Include="Src\P137SingleNumberII.cs" />
+    <Compile Include="Src\P1396DesignUndergroundSystem.cs" />
     <Compile Include="Src\P139WordBreak.cs" />
     <Compile Include="Src\P1437CheckIfAllOnesAreAtLeastLengthKPlacesAway.cs" />
     <Compile Include="Src\P1446ConsecutiveCharacters.cs" />
@@ -364,6 +365,7 @@
     <Compile Include="Test\P1305AllElementsInTwoBinarySearchTreesTest.cs" />
     <Compile Include="Test\P1344AngleBetweenHandsOfAClockTest.cs" />
     <Compile Include="Test\P137SingleNumberIITest.cs" />
+    <Compile Include="Test\P1396DesignUndergroundSystemTest.cs" />
     <Compile Include="Test\P139WordBreakTest.cs" />
     <Compile Include="Test\P1422MaximumScoreAfterSplittingAStringTest.cs" />
     <Compile Include="Test\P1423MaximumPointsYouCanObtainFromCardsTest.cs" />
