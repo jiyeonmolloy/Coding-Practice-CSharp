@@ -344,6 +344,7 @@
     <Compile Include="Src\P476NumberComplement.cs" />
     <Compile Include="Src\P771JewelsAndStones.cs" />
     <Compile Include="Src\P965UnivaluedBinaryTree.cs" />
+    <Compile Include="Src\P9PalindromeNumber.cs" />
     <Compile Include="Test\P1007MinimumDominoRotationsForEqualRowTest.cs" />
     <Compile Include="Test\P1008ConstructBSTFromPreorderTraversalTest.cs" />
     <Compile Include="Test\P1009ComplementOfBase10IntegerTest.cs" />
@@ -522,6 +523,7 @@
     <Compile Include="Test\P949LargestTimeForGivenDigitsTest.cs" />
     <Compile Include="Test\P965UnivaluedBinaryTreeTest.cs" />
     <Compile Include="Test\P997FindTheTownJudgeTest.cs" />
+    <Compile Include="Test\P9PalindromeNumberTest.cs" />
     <Compile Include="Test\WeeklyChallenge.cs" />
   </ItemGroup>
   <ItemGroup>
