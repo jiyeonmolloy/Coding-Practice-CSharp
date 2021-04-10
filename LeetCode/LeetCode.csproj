@@ -249,6 +249,7 @@
     <Compile Include="Src\P1689PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.cs" />
     <Compile Include="Src\P1694ReformatPhoneNumber.cs" />
     <Compile Include="Src\P1695MaximumErasureValue.cs" />
+    <Compile Include="Src\P1704DetermineIfStringHalvesAreAlike.cs" />
     <Compile Include="Src\P171ExcelSheetColumnNumber.cs" />
     <Compile Include="Src\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnes.cs" />
     <Compile Include="Src\P1785MinimumElementsToAddToFormAGivenSum.cs" />
@@ -434,6 +435,7 @@
     <Compile Include="Test\P1694ReformatPhoneNumberTest.cs" />
     <Compile Include="Test\P1695MaximumErasureValueTest.cs" />
     <Compile Include="Test\P169MajorityElementTest.cs" />
+    <Compile Include="Test\P1704DetermineIfStringHalvesAreAlikeTest.cs" />
     <Compile Include="Test\P171ExcelSheetColumnNumberTest.cs" />
     <Compile Include="Test\P1784CheckIfBinaryStringHasAtMostOneSegmentOfOnesTest.cs" />
     <Compile Include="Test\P1785MinimumElementsToAddToFormAGivenSumTest.cs" />
