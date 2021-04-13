@@ -255,6 +255,7 @@
     <Compile Include="Src\P1785MinimumElementsToAddToFormAGivenSum.cs" />
     <Compile Include="Src\P1790CheckIfOneStringSwapCanMakeStringsEqual.cs" />
     <Compile Include="Src\P1791FindCenterOfStarGraph.cs" />
+    <Compile Include="Src\P1816TruncateSentence.cs" />
     <Compile Include="Src\P189RotateArray.cs" />
     <Compile Include="Src\P190ReverseBits.cs" />
     <Compile Include="Src\P198HouseRobber.cs" />
@@ -441,6 +442,7 @@
     <Compile Include="Test\P1785MinimumElementsToAddToFormAGivenSumTest.cs" />
     <Compile Include="Test\P1790CheckIfOneStringSwapCanMakeStringsEqualTest.cs" />
     <Compile Include="Test\P1791FindCenterOfStarGraphTest.cs" />
+    <Compile Include="Test\P1816TruncateSentenceTest.cs" />
     <Compile Include="Test\P189RotateArrayTest.cs" />
     <Compile Include="Test\P190ReverseBitsTest.cs" />
     <Compile Include="Test\P198HouseRobberTest.cs" />
